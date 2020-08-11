@@ -16,6 +16,7 @@
         <module>spring-boot-demo-swagger-ui</module>
         <module>spring-boot-demo-redis-cache</module>
         <module>spring-boot-demo-aop-log</module>
+        <module>spring-boot-poi</module>
     </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
