@@ -6,15 +6,29 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="spring-boot-poi" />
-        <module name="spring-boot-demon-yml" />
+        <module name="soring" />
+        <module name="spring-boot-demo-aop-log" />
+        <module name="spring-boot-demo-mybatis" />
+        <module name="spring-boot-demo-redis" />
         <module name="spring-boot-demo-redis-cache" />
         <module name="spring-boot-demo-swagger-ui" />
+        <module name="spring-boot-demon-yml" />
+        <module name="spring-boot-poi" />
         <module name="springboot-demon-exception" />
-        <module name="spring-boot-demo-mybatis" />
-        <module name="spring-boot-demo-aop-log" />
-        <module name="spring-boot-demo-redis" />
+        <module name="SpringbootAutoConfiguration" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="soring" target="1.8" />
+      <module name="spring-boot-demo-aop-log" target="1.8" />
+      <module name="spring-boot-demo-mybatis" target="1.8" />
+      <module name="spring-boot-demo-redis" target="1.8" />
+      <module name="spring-boot-demo-redis-cache" target="1.8" />
+      <module name="spring-boot-demon-yml" target="1.8" />
+      <module name="spring-boot-poi" target="1.8" />
+      <module name="springboot-demon-exception" target="1.8" />
+      <module name="SpringbootAutoConfiguration" target="1.8" />
+      <module name="springbootstudy" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

@@ -1,21 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringbootAutoConfiguration" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-demo-aop-log" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-demo-aop-log/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-demo-aop-log/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-demo-mybatis" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-demo-mybatis/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-demo-mybatis/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/spring-boot-demo-redis-cache/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/spring-boot-demo-redis-cache/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-demo-redis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-demo-redis-cache" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-demo-redis/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-demo-redis/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-demo-swagger-ui" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-demo-swagger-ui/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/spring-boot-demo-swagger-ui/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-demon-yml" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-demon-yml/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-demon-yml/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-poi" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-poi/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/spring-boot-poi/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-demon-exception" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-demon-exception/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/springboot-demon-exception/src/main/resources" charset="UTF-8" />
   </component>
 </project>
