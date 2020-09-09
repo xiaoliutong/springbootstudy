@@ -1,6 +1,7 @@
 package Test;
 
 import com.springboot.StartMybatisApplication;
+import com.springboot.entity.User;
 import com.springboot.mapper.TestUserMapper;
 import com.springboot.mapper.UserMapper;
 import org.apache.ibatis.io.Resources;
@@ -20,11 +21,14 @@ import java.io.InputStream;
 @SpringBootTest(classes = StartMybatisApplication.class)
 public class TestMybatis {
     @Resource
-    private TestUserMapper userMapper;
+    private UserMapper userMapper;
 
     @Test
     public void testFinAll() {
-        System.out.println(userMapper.findAll());
+        User user = new User();
+        user.setId(1l);
+        System.out.println(userMapper.findOneByCondition(user));
+
     }
 
 

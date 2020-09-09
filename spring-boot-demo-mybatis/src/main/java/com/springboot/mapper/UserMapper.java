@@ -6,10 +6,16 @@ import org.apache.ibatis.annotations.Select;
 import org.springframework.stereotype.Component;
 
 import java.util.List;
-public interface UserMapper {
-  List<User> findAll();
-  @Select(" SELECT * FROM orm_user")
-   List<User> getAll();
 
-  List<User> findOne();
+public interface UserMapper {
+    List<User> findAll();
+
+    @Select(" SELECT * FROM orm_user")
+    List<User> getAll();
+
+    List<User> findOne();
+
+    List<User> findOneByCondition(User user);
+
+
 }
