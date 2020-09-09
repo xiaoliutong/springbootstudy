@@ -16,6 +16,8 @@
         <module name="spring-boot-poi" />
         <module name="springboot-demon-exception" />
         <module name="SpringbootAutoConfiguration" />
+        <module name="springbootdemomvc" />
+        <module name="springbootdemoservlet" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -28,6 +30,8 @@
       <module name="spring-boot-poi" target="1.8" />
       <module name="springboot-demon-exception" target="1.8" />
       <module name="SpringbootAutoConfiguration" target="1.8" />
+      <module name="springbootdemomvc" target="1.8" />
+      <module name="springbootdemoservlet" target="1.8" />
       <module name="springbootstudy" target="1.8" />
     </bytecodeTargetLevel>
   </component>
