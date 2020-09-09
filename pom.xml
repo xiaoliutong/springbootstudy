@@ -18,6 +18,8 @@
         <module>spring-boot-demo-aop-log</module>
         <module>spring-boot-poi</module>
         <module>SpringbootAutoConfiguration</module>
+        <module>springbootdemomvc</module>
+        <module>springbootdemoservlet</module>
     </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
